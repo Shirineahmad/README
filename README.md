@@ -11,9 +11,9 @@ Hello World, I'am Shirin Ahmad 👋
 
      My Interests:
   -------------------------------
+  Full-Stack Web Development
   Machine Learning / Deep Learning
   Data Science / Network Science
-  Full-Stack Web Development
   Cyper Security Offensive 
 
      Reach out & connect with me to share & discuss inovative ideas:
@@ -25,7 +25,7 @@ Hello World, I'am Shirin Ahmad 👋
   
       Languages:
   -----------------------
-  Python , JavaScript , Java , Html ,Css, Php 
+  Python ,JavaScript ,Java ,Html ,Css ,Php ,ReactJs, NodeJs, MangoDB 
   
      Tools:
   ----------------------
